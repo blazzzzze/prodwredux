@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*my*/
+
+.width100 {
+    width: 100%;
+}
+
+.sub-products {
+    border: dashed;
+    border-width: thin;
+}
