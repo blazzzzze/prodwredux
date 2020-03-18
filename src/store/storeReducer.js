@@ -1,4 +1,4 @@
-﻿import { LOAD, UNLOAD, SET_ERROR, HIDE_ERROR } from "./actionCreators";
+﻿import { LOAD, UNLOAD, SET_ERROR, HIDE_ERROR } from "./actionTypes";
 import { intialStore } from "./initialStore";
 
 export default (state, action) => {

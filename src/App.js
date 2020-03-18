@@ -7,8 +7,8 @@ import ErrorMessage from "./pages/components/ErrorMessage";
 
 function App() {
 
-      return (
-          <div className="App">
+    return (
+        <div className="App">
               <Provider store={store}>
                   <ErrorMessage />
                   <ProductList />                  
